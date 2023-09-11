@@ -1,4 +1,0 @@
-- Annuler une pièce de jeu
-- échange de données fixe
-- affichage quotidien fixe de la planète
-- gravitation fixe

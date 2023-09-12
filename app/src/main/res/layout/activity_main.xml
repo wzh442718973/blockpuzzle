@@ -5,9 +5,9 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/black"
-    tools:context="de.mwvb.blockpuzzle.game.MainActivity">
+    tools:context="com.feeling.emotion.phpassion.game.MainActivity">
 
-    <de.mwvb.blockpuzzle.global.StarsView
+    <com.feeling.emotion.phpassion.global.StarsView
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
@@ -68,7 +68,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp">
 
-            <de.mwvb.blockpuzzle.playingfield.PlayingFieldView
+            <com.feeling.emotion.phpassion.playingfield.PlayingFieldView
                 android:id="@+id/playingField"
                 android:layout_width="300dp"
                 android:layout_height="360dp"

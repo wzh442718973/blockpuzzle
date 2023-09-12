@@ -1,14 +1,14 @@
-package de.mwvb.blockpuzzle.data;
+package com.feeling.emotion.phpassion.data;
 
 import org.jetbrains.annotations.NotNull;
 import org.junit.Assert;
 import org.junit.Test;
 
-import de.mwvb.blockpuzzle.cluster.Cluster;
-import de.mwvb.blockpuzzle.global.messages.MessageFactory;
-import de.mwvb.blockpuzzle.global.messages.MessageObject;
-import de.mwvb.blockpuzzle.planet.IPlanet;
-import de.mwvb.blockpuzzle.planet.Planet;
+import com.feeling.emotion.phpassion.cluster.Cluster;
+import com.feeling.emotion.phpassion.global.messages.MessageFactory;
+import com.feeling.emotion.phpassion.global.messages.MessageObject;
+import com.feeling.emotion.phpassion.planet.IPlanet;
+import com.feeling.emotion.phpassion.planet.Planet;
 
 public class DataServiceTest {
     private final MessageFactory messages = new MessageFactory(null);

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="de.mwvb.blockpuzzle">
+    package="com.feeling.emotion.phpassion">
 
     <application
         android:allowBackup="true"
@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:exported="true"
             android:name=".global.StartScreenActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
@@ -40,7 +41,7 @@
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name="de.mwvb.blockpuzzle.global.developer.DeveloperActivity"
+            android:name="com.feeling.emotion.phpassion.global.developer.DeveloperActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity

@@ -7,7 +7,7 @@
     android:background="@color/black"
     tools:context=".data.PlayerNameActivity">
 
-    <de.mwvb.blockpuzzle.global.StarsView
+    <com.feeling.emotion.phpassion.global.StarsView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />

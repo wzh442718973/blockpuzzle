@@ -1,4 +1,4 @@
-package de.mwvb.blockpuzzle.global.messages;
+package com.feeling.emotion.phpassion.global.messages;
 
 public final class TestMessageFactory extends MessageFactory {
 

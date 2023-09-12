@@ -24,7 +24,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
-        <de.mwvb.blockpuzzle.cluster.ClusterView
+        <com.feeling.emotion.phpassion.cluster.ClusterView
             android:id="@+id/clusterView"
             android:layout_width="1500dp"
             android:layout_height="1500dp"/>
